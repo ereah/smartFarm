@@ -1,0 +1,1 @@
+worker: python smart_farm.py
